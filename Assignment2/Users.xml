@@ -1,0 +1,25 @@
+<?xml version="1.0"?><list>
+  <model.Employee>
+    <idemployee>1</idemployee>
+    <nume>Ilas Alexandra</nume>
+    <password>eu</password>
+    <adresa>Ploiesti</adresa>
+  </model.Employee>
+  <model.Employee>
+    <idemployee>2</idemployee>
+    <nume>Bianca Galeata</nume>
+    <password>eu</password>
+    <adresa>Suceava</adresa>
+  </model.Employee>
+  <model.Employee>
+    <idemployee>3</idemployee>
+    <nume>Iacob Anca</nume>
+    <password>eu</password>
+    <adresa>Ludus</adresa>
+  </model.Employee>
+  <model.Employee>
+    <idemployee>0</idemployee>
+    <nume>Maria Ana</nume>
+    <adresa>Cluj</adresa>
+  </model.Employee>
+</list>

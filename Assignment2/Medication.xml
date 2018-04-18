@@ -1,0 +1,51 @@
+<?xml version="1.0"?><list>
+  <model.Medication>
+    <name>Ibuprofen</name>
+    <ingredients>beta alanina, bicarbonat, creatina</ingredients>
+    <manufacter>Catena Cluj-Napoca</manufacter>
+    <quantity>2000</quantity>
+    <price>4</price>
+  </model.Medication>
+  <model.Medication>
+    <name>Xanax</name>
+    <ingredients>bicar, beta analina, creatina</ingredients>
+    <manufacter>Terapia Cluj-Napoca</manufacter>
+    <quantity>238</quantity>
+    <price>5</price>
+  </model.Medication>
+  <model.Medication>
+    <name>Nurofen Forte</name>
+    <ingredients>zahar, Ibuprofen</ingredients>
+    <manufacter>Catena Cluj-Napoca</manufacter>
+    <quantity>0</quantity>
+    <price>3</price>
+  </model.Medication>
+  <model.Medication>
+    <name>Colebil</name>
+    <ingredients>sodiu, bila de bou, metenamina, menta</ingredients>
+    <manufacter>Catena Cluj-Napoca</manufacter>
+    <quantity>20000</quantity>
+    <price>10</price>
+  </model.Medication>
+  <model.Medication>
+    <name>Algocalmin</name>
+    <ingredients>sodiu, zahar</ingredients>
+    <manufacter>Farma</manufacter>
+    <quantity>1200</quantity>
+    <price>3</price>
+  </model.Medication>
+  <model.Medication>
+    <name>Parasinus</name>
+    <ingredients>sodiu, bicar</ingredients>
+    <manufacter>Aroma</manufacter>
+    <quantity>10000</quantity>
+    <price>20</price>
+  </model.Medication>
+  <model.Medication>
+    <name>Marna</name>
+    <ingredients>zahar, sodiu</ingredients>
+    <manufacter>Sibiu Farmacy</manufacter>
+    <quantity>3000</quantity>
+    <price>2</price>
+  </model.Medication>
+</list>
